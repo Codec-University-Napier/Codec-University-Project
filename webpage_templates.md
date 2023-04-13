@@ -24,3 +24,28 @@ There is a filter at the top of the list for selecting a specific faculty.
 
 Highlighted selection of the ```Jobs``` page in the menu. Job opportunities listed in a tile arrangement (could be grouped by department). 
 Could be listed one after the other, or swiped through using an arrow.
+
+### Course description page
+![coursedesc](images/coursedescription.png)
+
+
+### Job description page
+![jobdesc](images/jobdesc.png)
+
+
+### My Classes page
+![myclass](images/myclasses.png)
+
+
+### My Timetable page
+![mytimetable](images/mytimetable.png)
+
+### My Exams page
+![myexams](images/myexams.png)
+
+### Profile page
+![profile](images/profile.png)
+
+### Log In page
+![login](images/login.png)
+
